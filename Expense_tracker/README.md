@@ -1,13 +1,13 @@
+# Sandelus98's Expense Tracker v. 1.0
+
+## Recent added:
 Added programfiles to the repository. This includes the files:
 
 - expense.py
 - expense_tracker.py
 - expense.cpython-312.pyc
 
-Note that the documentation + some of the variables are written in Norwegian. 
-I might add documentation in english at a later point of time.
-
-Description:
+## Description:
 
 When running the program as intended it will:
 
@@ -26,8 +26,11 @@ When running the program as intended it will:
 
 5. If you want to highlight some of these outputs in the color green, i've made a "color green" function as used in printing my daily budget (line 99).
 
+Note that the documentation + some of the variables are written in Norwegian. 
+I might add documentation in english at a later point of time.
 Hopefully this will help you navigate and understand the program better.
-- Sandelu98
+
+### - Sandelu98
 
 
 
